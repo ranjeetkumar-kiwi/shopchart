@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif !important;
+    background: #f8f8f8 !important;
+    color: #000;
+    font-size: 14px;
+
+}
+.container-fluid{
+    padding-inline: 70px !important;
+    @media (max-width: 991px) {
+        padding-inline: 15px !important;
+      }   
+}

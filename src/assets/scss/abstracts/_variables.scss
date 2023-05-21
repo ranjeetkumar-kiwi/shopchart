@@ -1,0 +1,94 @@
+$assetPath: '/assets/images';
+
+/* COLOR LISTS
+============================================= */
+$color_grey: #f8f8f8;
+$color_black: #000000;
+
+/* MARGIN
+============================================= */
+.mg-r {
+  &10 {
+    margin-right: 10px;
+  }
+  &15 {
+    margin-right: 15px;
+  }
+  &20 {
+    margin-right: 20px;
+  }
+  &25 {
+    margin-right: 25px;
+  }
+  &30 {
+    margin-right: 30px;
+  }
+}
+.mg-l {
+  &10 {
+    margin-left: 10px;
+  }
+  &15 {
+    margin-left: 15px;
+  }
+  &20 {
+    margin-left: 20px;
+  }
+  &25 {
+    margin-left: 25px;
+  }
+  &30 {
+    margin-left: 30px;
+  }
+}
+.mg-t {
+  &10 {
+    margin-top: 10px;
+  }
+  &15 {
+    margin-top: 15px;
+  }
+  &20 {
+    margin-top: 20px;
+  }
+  &25 {
+    margin-top: 25px;
+  }
+  &30 {
+    margin-top: 30px;
+  }
+}
+.mg-b {
+  &10 {
+    margin-bottom: 10px !important;
+  }
+  &15 {
+    margin-bottom: 15px !important;
+  }
+  &20 {
+    margin-bottom: 20px !important;
+  }
+  &25 {
+    margin-bottom: 25px !important;
+  }
+  &27 {
+    margin-bottom: 27px !important;
+  }
+  &30 {
+    margin-bottom: 30px !important;
+  }
+}
+
+/* ===================================== */
+.pb-20 {
+  padding-bottom: 20px;
+}
+.pb-27 {
+  padding-bottom: 27px;
+}
+.pt-37 {
+  padding-top: 37px;
+}
+.mr-14 {
+  margin-right: 14px;
+}
